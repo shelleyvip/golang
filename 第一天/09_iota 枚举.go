@@ -8,13 +8,13 @@ func main()  {
 		b = iota ////是常量的自动生成器，每隔一行 自动累加1
 		c = iota
 	)
-	fmt.Printf("a=%d,b=%d,c=%d",a,b,c)
+	fmt.Printf("a=%d,b=%d,c=%d\n",a,b,c)
 
 
 
 
 const e = iota   ////iota 遇到const 重置为零
-fmt.Printf("e=%d",e)
+fmt.Printf("e=%d\n",e)
 
 const(
 	h = iota

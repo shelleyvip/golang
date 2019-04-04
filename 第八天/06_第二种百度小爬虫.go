@@ -55,11 +55,12 @@ func HttpGet6(url string)(result string,err error)  {
 	for{
 		n,err2 := resp.Body.Read(buf)
 		if n == 0{
+			if err2 != nil && err2 == io.EOF{
+				err = err2
 			fmt.Println("读取网页完成")
 			break
 		}
-		if err2 != nil && err2 == io.EOF{
-		err = err2
+
 		return
 		}
 		//累加每一次循环 读到的 buf数据，存入result 一次性返回。

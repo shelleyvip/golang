@@ -29,8 +29,8 @@ func WriteFile(path string){
 		fmt.Println("n=",n)
 	}
 }
-/// 文件路径  /Users/golang/Work/go_path/src/第五天/
-//cd  进入文件夹    ； cd  /Users/golang/Work/go_path/src/第五天/
+/// 文件路径  /Users/golang/Work/go_path/工程管理不同目录调用/第五天/
+//cd  进入文件夹    ； cd  /Users/golang/Work/go_path/工程管理不同目录调用/第五天/
 //ls 查看文件
 //cat 查看文件的的；比如：  cat 01_试炼.go
 func main(){
