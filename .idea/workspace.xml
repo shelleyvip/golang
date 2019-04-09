@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="df8fd206-8b62-42dc-a83e-f1c67504c722" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/mysql/试炼.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql" beforeDir="false" afterPath="$PROJECT_DIR$/mysql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/巩固/27_拷贝文件,源文件-目的文件" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/巩固/试炼.go" beforeDir="false" afterPath="$PROJECT_DIR$/巩固/试炼.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,25 +28,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="go" value="118" />
+          <entry key="go" value="126" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="Go" value="118" />
+          <entry key="Go" value="126" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="21550" />
+          <entry key="go" value="22940" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="21550" />
+          <entry key="Go" value="22940" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
@@ -63,25 +59,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new巩固/04_switch.go">
+        <entry file="file://$PROJECT_DIR$/new巩固/12_struct结构体.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="13" selection-start-column="6" selection-end-line="17" />
-              <folding>
-                <element signature="e#14#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/new巩固/05_打开关闭文件.go">
+        <entry file="file://$PROJECT_DIR$/new巩固/13_多返回值.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-              <folding>
-                <element signature="e#14#64#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -102,15 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/巩固/11_随机数取每一位数.go" />
-        <option value="$PROJECT_DIR$/巩固/12_定义一个结构体的普通变量.操作.go" />
-        <option value="$PROJECT_DIR$/巩固/13_结构体值传递和地址传递.go" />
-        <option value="$PROJECT_DIR$/巩固/匿名字段的基本语法.go" />
-        <option value="$PROJECT_DIR$/巩固/14_结构体成员的操作.go" />
-        <option value="$PROJECT_DIR$/巩固/15_面向过程和面向对象函数的区别.go" />
-        <option value="$PROJECT_DIR$/巩固/shilian.go" />
-        <option value="$PROJECT_DIR$/巩固/16_带有接收者的函数叫方法.go" />
-        <option value="$PROJECT_DIR$/巩固/17_值语义和引用语义.go" />
         <option value="$PROJECT_DIR$/巩固/18_方法的继承.go" />
         <option value="$PROJECT_DIR$/巩固/19_重名方法.go" />
         <option value="$PROJECT_DIR$/巩固/20_绑定一个方法值.go" />
@@ -153,6 +134,15 @@
         <option value="$PROJECT_DIR$/new巩固/03_if判断语句.go" />
         <option value="$PROJECT_DIR$/new巩固/04_switch.go" />
         <option value="$PROJECT_DIR$/new巩固/05_打开关闭文件.go" />
+        <option value="$PROJECT_DIR$/new巩固/06_读取目录.go" />
+        <option value="$PROJECT_DIR$/new巩固/07_获取当前所有运行的.go" />
+        <option value="$PROJECT_DIR$/new巩固/07_获取当前所有运行的Pid.go" />
+        <option value="$PROJECT_DIR$/new巩固/08_数组.go" />
+        <option value="$PROJECT_DIR$/new巩固/09_切片的方法.go" />
+        <option value="$PROJECT_DIR$/new巩固/10_append切片扩容.go" />
+        <option value="$PROJECT_DIR$/new巩固/11_创建map.go" />
+        <option value="$PROJECT_DIR$/new巩固/12_struct结构体.go" />
+        <option value="$PROJECT_DIR$/new巩固/13_多返回值.go" />
       </list>
     </option>
   </component>
@@ -162,7 +152,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="27" />
     <option name="y" value="23" />
     <option name="width" value="1413" />
@@ -217,48 +207,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 05_打开关闭文件.go">
-    <configuration name="go build 01_unsafe.SizeOf获取类型的字节大小.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 14_命名返回值.go">
+    <configuration name="go build 10_append切片扩容.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/new巩固/01_unsafe.SizeOf获取类型的字节大小.go" />
+      <filePath value="$PROJECT_DIR$/new巩固/10_append切片扩容.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 02_字符串操作.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 11_创建map.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/new巩固/02_字符串操作.go" />
+      <filePath value="$PROJECT_DIR$/new巩固/11_创建map.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 03_if判断语句.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 12_struct结构体.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/new巩固/03_if判断语句.go" />
+      <filePath value="$PROJECT_DIR$/new巩固/12_struct结构体.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 04_switch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 13_多返回值.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/new巩固/04_switch.go" />
+      <filePath value="$PROJECT_DIR$/new巩固/13_多返回值.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 05_打开关闭文件.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 14_命名返回值.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/new巩固/05_打开关闭文件.go" />
+      <filePath value="$PROJECT_DIR$/new巩固/14_命名返回值.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -282,27 +272,27 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build 01_unsafe.SizeOf获取类型的字节大小.go" />
-      <item itemvalue="Go Build.go build 02_字符串操作.go" />
-      <item itemvalue="Go Build.go build 03_if判断语句.go" />
-      <item itemvalue="Go Build.go build 04_switch.go" />
-      <item itemvalue="Go Build.go build 05_打开关闭文件.go" />
+      <item itemvalue="Go Build.go build 10_append切片扩容.go" />
+      <item itemvalue="Go Build.go build 11_创建map.go" />
+      <item itemvalue="Go Build.go build 12_struct结构体.go" />
+      <item itemvalue="Go Build.go build 13_多返回值.go" />
+      <item itemvalue="Go Build.go build 14_命名返回值.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 05_打开关闭文件.go" />
-        <item itemvalue="Go Build.go build 04_switch.go" />
-        <item itemvalue="Go Build.go build 03_if判断语句.go" />
-        <item itemvalue="Go Build.go build 02_字符串操作.go" />
-        <item itemvalue="Go Build.go build 01_unsafe.SizeOf获取类型的字节大小.go" />
+        <item itemvalue="Go Build.go build 14_命名返回值.go" />
+        <item itemvalue="Go Build.go build 13_多返回值.go" />
+        <item itemvalue="Go Build.go build 12_struct结构体.go" />
+        <item itemvalue="Go Build.go build 11_创建map.go" />
+        <item itemvalue="Go Build.go build 10_append切片扩容.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="23" width="1413" height="877" extended-state="1" />
+    <frame x="27" y="23" width="1413" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1502553" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15244347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -329,62 +319,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/巩固/11_随机数取每一位数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/巩固/14_结构体成员的操作.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/巩固/18_方法的继承.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/巩固/17_值语义和引用语义.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/巩固/21_方法表达式 显示调用.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/巩固/22_借口的定义和实现：同一个接口不同的表现.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/巩固/20_绑定一个方法值.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/巩固/13_结构体值传递和地址传递.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/巩固/12_定义一个结构体的普通变量.操作.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="909">
@@ -652,16 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new巩固/04_switch.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="13" selection-start-column="6" selection-end-line="17" />
-          <folding>
-            <element signature="e#14#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/巩固/试炼.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -676,6 +600,75 @@
           <folding>
             <element signature="e#14#64#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/04_switch.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="13" selection-start-column="6" selection-end-line="17" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/06_读取目录.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="7" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/07_获取当前所有运行的Pid.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="e#14#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/08_数组.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/09_切片的方法.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/10_append切片扩容.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/11_创建map.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/12_struct结构体.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/13_多返回值.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
