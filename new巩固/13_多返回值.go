@@ -7,7 +7,14 @@ func swap(a,b string)(string,string)  {
 	
 }
 
+func split(sub int)(x,y int)  {
+	x = sub / 10
+	y = sub * 10
+    return
+}
+
 func main() {
       x,y := swap("hello","world")
       fmt.Println(x,y)
+      fmt.Println(split(17))
 }
