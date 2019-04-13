@@ -5,7 +5,6 @@
       <change afterPath="$PROJECT_DIR$/mysql/试炼.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql" beforeDir="false" afterPath="$PROJECT_DIR$/mysql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new巩固/17_os.exit" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,25 +28,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="go" value="142" />
+          <entry key="go" value="147" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="Go" value="142" />
+          <entry key="Go" value="147" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="25372" />
+          <entry key="go" value="26409" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="25372" />
+          <entry key="Go" value="26409" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
@@ -59,11 +58,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/new巩固/23_闭包.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new巩固/24_闭包.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="138">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="10" />
+              <folding>
+                <element signature="e#14#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new巩固/24_闭包坑.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new巩固/25_排序.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="14" />
+              <folding>
+                <element signature="e#14#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,10 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/巩固/31_通过map生成json.go" />
-        <option value="$PROJECT_DIR$/巩固/30_通过结构体生成json.go" />
-        <option value="$PROJECT_DIR$/巩固/32_文件的读写.go" />
-        <option value="$PROJECT_DIR$/巩固/33_通过select实现超时.go" />
         <option value="$PROJECT_DIR$/巩固/34_主协程退出了字写成也会跟着退出.go" />
         <option value="$PROJECT_DIR$/巩固/35_Gosched让出时间片.go" />
         <option value="$PROJECT_DIR$/巩固/36_Giexit中止协程.go" />
@@ -135,6 +154,10 @@
         <option value="$PROJECT_DIR$/new巩固/21_作业_用函数封装学生管理系统.go" />
         <option value="$PROJECT_DIR$/new巩固/22_转大写匿名函数.go" />
         <option value="$PROJECT_DIR$/new巩固/23_闭包.go" />
+        <option value="$PROJECT_DIR$/new巩固/25_闭包坑.go" />
+        <option value="$PROJECT_DIR$/new巩固/24_闭包.go" />
+        <option value="$PROJECT_DIR$/new巩固/24_闭包坑.go" />
+        <option value="$PROJECT_DIR$/new巩固/25_排序.go" />
       </list>
     </option>
   </component>
@@ -199,34 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 23_闭包.go">
-    <configuration name="go build 16_递归实现斐波那契数列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/new巩固/16_递归实现斐波那契数列.go" />
-      <package value="golang" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 19_函数的类型.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/new巩固/19_函数的类型.go" />
-      <package value="golang" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 20_函数的使用.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/new巩固/20_函数的使用.go" />
-      <package value="golang" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build 25_排序.go">
     <configuration name="go build 22_转大写匿名函数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -241,6 +237,33 @@
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/new巩固/23_闭包.go" />
+      <package value="golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 24_闭包.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/new巩固/24_闭包.go" />
+      <package value="golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 24_闭包坑.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/new巩固/24_闭包坑.go" />
+      <package value="golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 25_排序.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/new巩固/25_排序.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -264,19 +287,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build 16_递归实现斐波那契数列.go" />
-      <item itemvalue="Go Build.go build 19_函数的类型.go" />
-      <item itemvalue="Go Build.go build 20_函数的使用.go" />
       <item itemvalue="Go Build.go build 22_转大写匿名函数.go" />
       <item itemvalue="Go Build.go build 23_闭包.go" />
+      <item itemvalue="Go Build.go build 24_闭包.go" />
+      <item itemvalue="Go Build.go build 24_闭包坑.go" />
+      <item itemvalue="Go Build.go build 25_排序.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 25_排序.go" />
+        <item itemvalue="Go Build.go build 24_闭包坑.go" />
+        <item itemvalue="Go Build.go build 24_闭包.go" />
         <item itemvalue="Go Build.go build 23_闭包.go" />
         <item itemvalue="Go Build.go build 22_转大写匿名函数.go" />
-        <item itemvalue="Go Build.go build 20_函数的使用.go" />
-        <item itemvalue="Go Build.go build 19_函数的类型.go" />
-        <item itemvalue="Go Build.go build 16_递归实现斐波那契数列.go" />
       </list>
     </recent_temporary>
   </component>
@@ -311,30 +334,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/巩固/31_通过map生成json.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/巩固/33_通过select实现超时.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/巩固/32_文件的读写.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/巩固/34_主协程退出了字写成也会跟着退出.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -660,8 +659,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/new巩固/23_闭包.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="264">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/25_闭包坑.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/24_闭包.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="e#14#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/24_闭包坑.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new巩固/25_排序.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
