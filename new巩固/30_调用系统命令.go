@@ -1,28 +1,27 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
-	"io"
-	"log"
+	"github.com/labstack/gommon/log"
 	"os/exec"
+	"time"
 )
 
-func main() {
-	cmd := exec.Command("ls","-1")
+func main() {     //exec.Command调用系统命令
+	cmd := exec.Command("df","-tH")  //-l是以树桩的形式显示  ls是当前目录下的文件
 	out,_ := cmd.StdoutPipe()
-	buf := make([]byte,1024)
-	for{
-		_,err :=out.Read(buf)
-		if err == io.EOF{
-			break
-		}
-		if err != nil{
-			fmt.Printf("erad err %v",err)
-			break
-		}
-		if err := cmd.Start();err != nil{
-			log.Fatalf("start error :%v",err)
-		}
+	if err := cmd.Start();err != nil{
+		log.Fatal(err)
 	}
-	fmt.Println(out)
+	f := bufio.NewReader(out)
+	for{
+		line,err := f.ReadString('\n')
+		if err != nil{
+			break
+		}
+		fmt.Print(line)
+	}
+	time.Sleep(time.Hour)
+	cmd.Wait()
 }
