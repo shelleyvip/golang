@@ -5,7 +5,7 @@
       <change afterPath="$PROJECT_DIR$/mysql/试炼.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql" beforeDir="false" afterPath="$PROJECT_DIR$/mysql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面向对象-引出问题/继承inherit.go" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象-引出问题/继承inherit.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面向对象-继承细节/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象-继承细节/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,25 +29,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="go" value="202" />
+          <entry key="go" value="204" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="Go" value="202" />
+          <entry key="Go" value="204" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="36002" />
+          <entry key="go" value="37283" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="36002" />
+          <entry key="Go" value="37283" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
@@ -60,11 +60,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/面向对象-继承细节/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+            <state relative-caret-position="46">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/面向对象-接口/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="505">
+              <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -85,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/new巩固/14_命名返回值.go" />
         <option value="$PROJECT_DIR$/new巩固/15_可变参数.go" />
         <option value="$PROJECT_DIR$/new巩固/13_多返回值.go" />
         <option value="$PROJECT_DIR$/new巩固/17_os.exit.go" />
@@ -136,6 +144,7 @@
         <option value="$PROJECT_DIR$/面向对象/继承inherit.go" />
         <option value="$PROJECT_DIR$/面向对象-引出问题/继承inherit.go" />
         <option value="$PROJECT_DIR$/面向对象-继承细节/main.go" />
+        <option value="$PROJECT_DIR$/面向对象-接口/main.go" />
       </list>
     </option>
   </component>
@@ -145,7 +154,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="27" />
     <option name="y" value="23" />
     <option name="width" value="1413" />
@@ -166,11 +175,6 @@
             <path>
               <item name="golang" type="b2602c69:ProjectViewProjectNode" />
               <item name="golang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="golang" type="462c0819:PsiDirectoryNode" />
-              <item name="面向对象-继承细节" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (1)">
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
     <configuration name="go build 继承inherit.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -228,11 +232,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/encapsulation封装/main/main.go" />
+      <filePath value="$PROJECT_DIR$/面向对象-接口/main.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -247,32 +251,31 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build main.go (2)" />
       <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Build.go build 继承inherit.go" />
       <item itemvalue="Go Build.go build 继承inherit.go (1)" />
       <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build main.go (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build 继承inherit.go (1)" />
         <item itemvalue="Go Build.go build 继承inherit.go" />
         <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build main.go (2)" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="23" width="1413" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="27" y="23" width="1413" height="877" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15900803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15900803" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1910828" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1910828" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,13 +317,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/new巩固/10_append切片扩容.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new巩固/11_创建map.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -643,8 +639,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/面向对象-继承细节/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        <state relative-caret-position="46">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象-接口/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
         </state>
       </provider>
     </entry>
