@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+//接口的特点 不需要显示实现 只要一个变量 含有接口里面的所有方法，那么这个变量就是实现这个接口
+//接口体现了程序设计的多态和高内聚低偶和的思想
+
 //定义个一个Bsb接口
 type Usb interface {
 	Start()
