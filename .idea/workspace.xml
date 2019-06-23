@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="df8fd206-8b62-42dc-a83e-f1c67504c722" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/mysql/试炼.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql" beforeDir="false" afterPath="$PROJECT_DIR$/mysql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面向对象-接口/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象-接口/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,54 +17,72 @@
     <session id="1965849642">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.0" value="9" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="go" value="208" />
+          <entry key="go" value="222" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="Go" value="208" />
+          <entry key="Go" value="222" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="39025" />
+          <entry key="go" value="43168" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="39025" />
+          <entry key="Go" value="43168" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
         <counts>
           <entry key=".println" value="1" />
-          <entry key=".var" value="3" />
+          <entry key=".var" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/实现接口和继承的一个关系/main.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Customer信息管理系统/model/customer.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="805">
-              <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+            <state relative-caret-position="506">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Customer信息管理系统/service/CustomerService.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Customer信息管理系统/view/customerView.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-224">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -78,6 +96,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/客户信息管理系统</dir>
+    </dirStrings>
+  </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.11/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,17 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/new巩固/18_可变参数.go" />
-        <option value="$PROJECT_DIR$/new巩固/16_递归实现斐波那契数列.go" />
-        <option value="$PROJECT_DIR$/new巩固/19_函数的类型.go" />
-        <option value="$PROJECT_DIR$/new巩固/20_函数的使用.go" />
-        <option value="$PROJECT_DIR$/new巩固/21.go" />
-        <option value="$PROJECT_DIR$/new巩固/21_作业_用函数一个学生管理系统.go" />
-        <option value="$PROJECT_DIR$/new巩固/21_作业_用函数封装学生管理系统.go" />
-        <option value="$PROJECT_DIR$/new巩固/22_转大写匿名函数.go" />
-        <option value="$PROJECT_DIR$/new巩固/23_闭包.go" />
-        <option value="$PROJECT_DIR$/new巩固/25_闭包坑.go" />
-        <option value="$PROJECT_DIR$/new巩固/24_闭包.go" />
         <option value="$PROJECT_DIR$/new巩固/24_闭包坑.go" />
         <option value="$PROJECT_DIR$/new巩固/25_排序.go" />
         <option value="$PROJECT_DIR$/new巩固/defer 关闭文件 函数返回前执行.go" />
@@ -136,6 +148,17 @@
         <option value="$PROJECT_DIR$/面向对象-接口/接口本身不能创建实例.go" />
         <option value="$PROJECT_DIR$/面向对象-排序/main.go" />
         <option value="$PROJECT_DIR$/实现接口和继承的一个关系/main.go" />
+        <option value="$PROJECT_DIR$/类型断言/类型断言案例.go" />
+        <option value="$PROJECT_DIR$/类型断言/断言-循环判断传入的参数类型.go" />
+        <option value="$PROJECT_DIR$/家庭收支账本/main.go" />
+        <option value="$PROJECT_DIR$/家庭收支记账软件/main.go" />
+        <option value="$PROJECT_DIR$/面向对象的方法-家庭记账/utils/familyAccount.go" />
+        <option value="$PROJECT_DIR$/面向对象的方法-家庭记账/main/main.go" />
+        <option value="$PROJECT_DIR$/客户信息管理系统/model/customer.go" />
+        <option value="$PROJECT_DIR$/Customer(客户)信息管理系统/model/customer.go" />
+        <option value="$PROJECT_DIR$/Customer(客户)信息管理系统/service/CustomerService.go" />
+        <option value="$PROJECT_DIR$/Customer(客户)信息管理系统/view/customerView.go" />
+        <option value="$PROJECT_DIR$/Customer信息管理系统/view/customerView.go" />
       </list>
     </option>
   </component>
@@ -159,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,10 +189,34 @@
               <item name="golang" type="b2602c69:ProjectViewProjectNode" />
               <item name="golang" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+              <item name="Customer信息管理系统" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+              <item name="Customer信息管理系统" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+              <item name="Customer信息管理系统" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+              <item name="Customer信息管理系统" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,12 +242,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (2)">
-    <configuration name="go build 接口本身不能创建实例.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build customerView.go">
+    <configuration name="go build 类型断言案例.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/面向对象-接口/接口本身不能创建实例.go" />
+      <filePath value="$PROJECT_DIR$/类型断言/类型断言案例.go" />
+      <package value="golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build customerView.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Customer信息管理系统/view/customerView.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -210,7 +265,7 @@
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/面向对象-继承细节/main.go" />
+      <filePath value="$PROJECT_DIR$/家庭收支记账软件/main.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -228,47 +283,37 @@
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/面向对象-接口/main.go" />
-      <package value="golang" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/面向对象-排序/main.go" />
+      <filePath value="$PROJECT_DIR$/面向对象的方法-家庭记账/main/main.go" />
       <package value="golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Go Build.go build main.go (2)" />
+      <item itemvalue="Go Build.go build 类型断言案例.go" />
       <item itemvalue="Go Build.go build main.go (1)" />
       <item itemvalue="Go Build.go build main.go (3)" />
-      <item itemvalue="Go Build.go build 接口本身不能创建实例.go" />
-      <item itemvalue="Go Build.go build main.go" />
-      <item itemvalue="Go Build.go build main.go (2)" />
+      <item itemvalue="Go Build.go build customerView.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go (2)" />
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build 接口本身不能创建实例.go" />
+        <item itemvalue="Go Build.go build customerView.go" />
         <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build 类型断言案例.go" />
+        <item itemvalue="Go Build.go build main.go (2)" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="23" width="1413" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15900803" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16776076" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1910828" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16050956" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,56 +355,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/new巩固/15_可变参数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new巩固/13_多返回值.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new巩固/18_可变参数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new巩固/17_os.exit.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new巩固/16_递归实现斐波那契数列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new巩固/19_函数的类型.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new巩固/20_函数的使用.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new巩固/21.用函数封装学生管理系统" />
     <entry file="file://$PROJECT_DIR$/new巩固/a.txt" />
     <entry file="file://$PROJECT_DIR$/new巩固/21_作业_用函数封装学生管理系统.go">
       <provider selected="true" editor-type-id="text-editor">
@@ -520,9 +515,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/工程管理不同目录调用/main.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/工程管理不同目录调用/main.go" />
     <entry file="file://$PROJECT_DIR$/工程管理不同目录调用/model/student.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -534,29 +527,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-          <folding>
-            <element signature="e#14#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/封装练习/model/account.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/封装练习/main/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-          <folding>
-            <element signature="e#14#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/封装练习/model/account.go" />
+    <entry file="file://$PROJECT_DIR$/封装练习/main/main.go" />
     <entry file="file://$PROJECT_DIR$/encapsulation封装/model/Person.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -578,30 +553,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象/面向对象编程思想-抽象.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象/继承inherit.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面对对象-封装/model/account.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1892">
-          <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
-          <folding>
-            <element signature="e#15#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象/面向对象编程思想-抽象.go" />
+    <entry file="file://$PROJECT_DIR$/面向对象/继承inherit.go" />
     <entry file="file://$PROJECT_DIR$/面向对象-引出问题/继承inherit.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -634,16 +587,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="743">
           <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/实现接口和继承的一个关系/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        <state relative-caret-position="694">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类型断言/断言-循环判断传入的参数类型.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类型断言/类型断言案例.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/家庭收支记账软件/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象的方法-家庭记账/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象的方法-家庭记账/utils/familyAccount.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-701">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面对对象-封装/model/account.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1708">
+          <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Customer信息管理系统/model/customer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Customer信息管理系统/service/CustomerService.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Customer信息管理系统/view/customerView.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
         </state>
       </provider>
     </entry>
