@@ -1,5 +1,6 @@
 package model
 
+import "fmt"
 
 //声明一个customer结构体表示客户信息
 type Customer struct {
@@ -23,6 +24,14 @@ func Newcustomer(id int,name string,gender string,age int,
 			Phone:phone,
 			Email:email,
 		}
+	
+}
+
+//返回用户的信息 格式化后的
+func (this Customer)GetInfo() string {
+	info := fmt.Sprintf("%v\t%v\t%v\t%v\t%v\t%v\t",this.Id,
+		this.Name,this.Gender,this.Age, this.Phone,this.Email)
+	return info
 	
 }
 
